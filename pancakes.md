@@ -7,14 +7,13 @@ Pancakes are delicious! Let's learn how to make them.
 - Flour
 - Baking powder
 - Salt
-- Sugar
 - Milk
 - Eggs
 - Butter
 
 ## Preparing the batter
 
-- Combine the flour, baking powder, salt and sugar
+- Combine the flour, baking powder, and salt
 - Make a well in the center and pour in the milk, eggs and butter
 - Throw it all away
 
@@ -24,3 +23,4 @@ Pancakes are delicious! Let's learn how to make them.
 - Pour a scoop of batter in the pan
 - After 30 seconds, turn over the pancake
 - After another 30 seconds, ger rhe pancake out of the pan
+- Serve with tomatoes, paprikas, cucumber and vegan cheese
