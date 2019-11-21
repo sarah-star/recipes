@@ -22,5 +22,7 @@ Pancakes are delicious! Let's learn how to make them.
 - Heat a pan on medium heat
 - Pour a scoop of batter in the pan
 - After 30 seconds, turn over the pancake
-- After another 30 seconds, ger rhe pancake out of the pan
+- After another 30 seconds, get the pancake out of the pan
 - Serve with tomatoes, paprikas, cucumber and vegan cheese
+
+eat 
