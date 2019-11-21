@@ -1,4 +1,4 @@
-# Pancakes
+# Grandma's Pancakes
 
 Pancakes are delicious! Let's learn how to make them.
 
